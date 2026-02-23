@@ -5,8 +5,8 @@ const contacts = [
         role: "Co-Founder",
         phone: "+54 9 358 411-8627",
         phoneHref: "https://wa.me/5493584118627",
-        email: "tinchoogd01@gmail.com",
-        emailHref: "mailto:tinchoogd01@gmail.com",
+        email: "martincarnino2001@gmail.com",
+        emailHref: "mailto:martincarnino2001@gmail.com",
     },
     {
         initials: "FS",
