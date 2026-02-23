@@ -52,12 +52,8 @@ export default function PricingSection() {
                             </ul>
                         </div>
 
-                        <button className="w-full py-4 rounded-xl bg-slate-900 hover:bg-black text-white text-lg font-black transition-all active:scale-[0.98] shadow-lg shadow-slate-900/20">
-                            Comenzar Ahora
-                        </button>
-
                         <p className="text-center text-xs font-medium text-slate-400 mt-4">
-                            Cancela en cualquier momento. Sin tarjeta requerida.
+                            Cancela en cualquier momento. <span className="font-black">Sin tarjeta requerida.</span>
                         </p>
                     </div>
                 </div>
