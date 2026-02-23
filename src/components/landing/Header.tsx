@@ -67,7 +67,9 @@ export default function Header() {
 
                     {/* Desktop CTA */}
                     <a
-                        href="#pricing"
+                        href="https://wa.me/5493584118627?text=Hola!%20Quiero%20saber%20mas%20info%20sobre%20VersusPadel"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="hidden md:inline-flex bg-primary hover:bg-primary-dark text-black font-bold text-sm px-5 py-2.5 rounded-lg transition-all duration-150 active:scale-[0.98]"
                     >
                         Prueba Gratis
@@ -136,7 +138,9 @@ export default function Header() {
                 {/* Drawer CTA */}
                 <div className="px-4 pb-8">
                     <a
-                        href="#pricing"
+                        href="https://wa.me/5493584118627?text=Hola!%20Quiero%20saber%20mas%20info%20sobre%20VersusPadel"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         onClick={handleNavClick}
                         className="block w-full text-center bg-primary hover:bg-primary-dark text-black font-bold py-3.5 rounded-xl transition-all duration-150 active:scale-[0.98]"
                     >

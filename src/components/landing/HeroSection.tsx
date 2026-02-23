@@ -21,7 +21,7 @@ export default function HeroSection() {
                         </p>
                     </div>
                     <div className="flex flex-col sm:flex-row gap-3 sm:items-center">
-                        <a href="#pricing" className="bg-primary hover:bg-primary-dark text-black font-bold text-lg h-14 px-8 rounded-xl shadow-lg shadow-primary/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2">
+                        <a href="https://wa.me/5493584118627?text=Hola!%20Quiero%20saber%20mas%20info%20sobre%20VersusPadel" target="_blank" rel="noopener noreferrer" className="bg-primary hover:bg-primary-dark text-black font-bold text-lg h-14 px-8 rounded-xl shadow-lg shadow-primary/20 transition-all active:scale-[0.98] flex items-center justify-center gap-2">
                             <span>Prueba Gratis</span>
                         </a>
                     </div>
