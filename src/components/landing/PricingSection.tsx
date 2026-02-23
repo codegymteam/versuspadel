@@ -30,7 +30,7 @@ export default function PricingSection() {
                             <p className="text-slate-500 font-medium text-sm">Acceso completo a todas las funcionalidades del sistema.</p>
 
                             <div className="mt-8 flex items-baseline justify-center gap-1">
-                                <span className="text-6xl font-black text-slate-900 tracking-tighter">$20</span>
+                                <span className="text-6xl font-black text-slate-900 tracking-tighter">$19</span>
                                 <span className="text-lg font-bold text-slate-400">/mes</span>
                             </div>
                             <div className="text-primary font-black uppercase tracking-widest text-xs mt-1">USD</div>
